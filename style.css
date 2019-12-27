@@ -1,0 +1,29 @@
+
+
+h2
+{color:red;
+text-align:center;
+}
+/*
+div{
+	
+	background:gray;
+	height: 200px;
+	width:140px;
+	margin: 50px;
+	padding:80px;
+}*/
+p{
+	color:green;
+}
+table,th,td{
+	border: 1px solid black;
+	border-collapse:collapse;
+}
+
+#top{background: blue;}
+#bottom{background: green;}
+#middle{background:yellow;}
+
+.name{background:black;
+font-weight:bold;}
